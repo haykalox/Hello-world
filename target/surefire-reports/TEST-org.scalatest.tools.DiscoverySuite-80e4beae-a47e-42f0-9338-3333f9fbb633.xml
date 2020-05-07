@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="DESKTOP-BO2B4T2" name="org.scalatest.tools.DiscoverySuite" tests="0" time="0.01" timestamp="2020-05-06T10:33:30">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property 
+    name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_251\bin">
+</property>
+    <property name="java.vm.version" value="25.251-b08"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="FR"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value=""> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property 
+    name="user.dir" value="C:\Users\haykalo\IdeaProjects\scala-maven">
+</property>
+    <property name="java.runtime.version" value="1.8.0_251-b08"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property name="basedir" value="C:\Users\haykalo\IdeaProjects\scala-maven">
+    </property>
+    <property 
+    name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_251\lib\endorsed">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property 
+    name="java.io.tmpdir" value="C:\Users\haykalo\AppData\Local\Temp\">
+</property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 10"> </property>
+    <property name="sun.jnu.encoding" value="Cp1252"> </property>
+    <property 
+    name="java.library.path" value="C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\maven\apache-maven-3.6.3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\sbt\bin;C:\Program Files\Git\cmd;C:\Progra~1\Java\jdk1.8.0_161\bin;C:\hadoop-2.7.1\bin;C:\Program Files (x86)\scala\bin;C:\WINDOWS\System32\OpenSSH\;C:\Users\haykalo\AppData\Local\Microsoft\WindowsApps;C:\Users\haykalo\AppData\Local\GitHubDesktop\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="52.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="10.0"> </property>
+    <property name="user.home" value="C:\Users\haykalo"> </property>
+    <property name="user.timezone" value=""> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="file.encoding" value="Cp1252"> </property>
+    <property name="java.specification.version" value="1.8"> </property>
+    <property name="user.name" value="haykalo"> </property>
+    <property 
+    name="java.class.path" value="C:\Users\haykalo\IdeaProjects\scala-maven\target\test-classes;C:\Users\haykalo\IdeaProjects\scala-maven\target\classes;C:\Users\haykalo\.m2\repository\org\scala-lang\scala-library\2.11.7\scala-library-2.11.7.jar;C:\Users\haykalo\.m2\repository\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar;C:\Users\haykalo\.m2\repository\org\scala-lang\scala-reflect\2.11.2\scala-reflect-2.11.2.jar;C:\Users\haykalo\.m2\repository\org\scala-lang\modules\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.8"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_251">
+    </property>
+    <property 
+    name="sun.java.command" value="org.scalatest.tools.Runner -R C:\Users\haykalo\IdeaProjects\scala-maven\target\classes C:\Users\haykalo\IdeaProjects\scala-maven\target\test-classes -o -fWDF C:\Users\haykalo\IdeaProjects\scala-maven\target\surefire-reports\TestSuite.txt -u C:\Users\haykalo\IdeaProjects\scala-maven\target\surefire-reports\.">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="fr"> </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.8.0_251"> </property>
+    <property 
+    name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_251\lib\ext;C:\WINDOWS\Sun\Java\lib\ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_251\lib\resources.jar;C:\Program Files\Java\jre1.8.0_251\lib\rt.jar;C:\Program Files\Java\jre1.8.0_251\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_251\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_251\lib\jce.jar;C:\Program Files\Java\jre1.8.0_251\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_251\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_251\classes">
+</property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="sun.cpu.isalist" value="amd64"> </property>
+  </properties>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -29,7 +29,7 @@
         <artifactId>scala-maven-plugin</artifactId>
         <version>3.2.1</version>
         <configuration>
-          <mainClass>App</mainClass>
+          <mainClass>com.mycompany.app.App</mainClass>
           <scalaCompatVersion>2.11</scalaCompatVersion>
         </configuration>
         <executions>

@@ -21,15 +21,15 @@
     </dependency>
   </dependencies>
   <build>
-    <sourceDirectory>src/main/scala/com/mycompany/app</sourceDirectory>
-    <testSourceDirectory>src/test/scala/com/mycompany/app</testSourceDirectory>
+    <sourceDirectory>src/main/scala/com/haykel/app</sourceDirectory>
+    <testSourceDirectory>src/test/scala/com/haykel/app</testSourceDirectory>
     <plugins>
       <plugin>
         <groupId>net.alchim31.maven</groupId>
         <artifactId>scala-maven-plugin</artifactId>
         <version>3.2.1</version>
         <configuration>
-          <mainClass>com.mycompany.app.App</mainClass>
+          <mainClass>com.haykel.app.App</mainClass>
           <scalaCompatVersion>2.11</scalaCompatVersion>
         </configuration>
         <executions>

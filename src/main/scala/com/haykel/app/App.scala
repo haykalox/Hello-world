@@ -1,4 +1,4 @@
-package com.mycompany.app
+package com.haykel.app
 
 object App {
   def main(args: Array[String]) {

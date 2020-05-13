@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.haykel</groupId>
-  <artifactId>scala-maven</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <artifactId>maven-CSVReader</artifactId>
+  <version>0.1-test</version>
 
   <dependencies>
     <dependency>
@@ -19,6 +19,13 @@
       <artifactId>scalatest_2.11</artifactId>
       <version>2.2.4</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-sql -->
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-sql_2.12</artifactId>
+      <version>2.4.5</version>
+    </dependency>
+
   </dependencies>
   <build>
     <sourceDirectory>src/main/scala/com/haykel/app</sourceDirectory>
@@ -29,7 +36,7 @@
         <artifactId>scala-maven-plugin</artifactId>
         <version>3.2.1</version>
         <configuration>
-          <mainClass>com.haykel.app.App</mainClass>
+          <mainClass>com.haykel.app.testCSV</mainClass>
           <scalaCompatVersion>2.11</scalaCompatVersion>
         </configuration>
         <executions>
